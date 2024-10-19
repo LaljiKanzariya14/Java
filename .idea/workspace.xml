@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b506f0cd-af87-4b1c-93e8-154137ab81df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DuplicateChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VowelConsonantCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/removeDuplicatesFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnagramCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondLargestElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,39 +36,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "D:/GitHub/JavaPracticals/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/GitHub/JavaPracticals/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.removeDuplicatesFromArray">
-    <configuration name="DuplicateChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicateChar" />
+}</component>
+  <component name="RunManager" selected="Application.AnagramCheck">
+    <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnagramCheck" />
       <module name="JavaPracticals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDigitArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxDigitArray" />
+    <configuration name="FindDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindDuplicate" />
       <module name="JavaPracticals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelConsonantCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VowelConsonantCounter" />
+    <configuration name="MaxNumberFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxNumberFromArray" />
       <module name="JavaPracticals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeDuplicatesFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="removeDuplicatesFromArray" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+      <module name="JavaPracticals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SecondLargestElement" />
       <module name="JavaPracticals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,10 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.removeDuplicatesFromArray" />
-        <item itemvalue="Application.VowelConsonantCounter" />
-        <item itemvalue="Application.DuplicateChar" />
-        <item itemvalue="Application.MaxDigitArray" />
+        <item itemvalue="Application.AnagramCheck" />
+        <item itemvalue="Application.FindDuplicate" />
+        <item itemvalue="Application.MaxNumberFromArray" />
+        <item itemvalue="Application.SecondLargestElement" />
+        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
