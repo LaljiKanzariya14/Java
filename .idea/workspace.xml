@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b506f0cd-af87-4b1c-93e8-154137ab81df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AnagramCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MissingNumberArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,37 +46,37 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/GitHub/JavaPracticals/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AnagramCheck">
-    <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnagramCheck" />
+  <component name="RunManager" selected="Application.Fibonacci">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="JavaPracticals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindDuplicate" />
+    <configuration name="MaxNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxNumber" />
       <module name="JavaPracticals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxNumberFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaxNumberFromArray" />
+    <configuration name="MissingNumberArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MissingNumberArray" />
       <module name="JavaPracticals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseString" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome" />
       <module name="JavaPracticals" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondLargestElement" />
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
       <module name="JavaPracticals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AnagramCheck" />
-        <item itemvalue="Application.FindDuplicate" />
-        <item itemvalue="Application.MaxNumberFromArray" />
-        <item itemvalue="Application.SecondLargestElement" />
-        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.MissingNumberArray" />
+        <item itemvalue="Application.MaxNumber" />
       </list>
     </recent_temporary>
   </component>
